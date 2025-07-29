@@ -27,11 +27,3 @@ This file includes:
 - Two types of loops to iterate over data.
 - Three DOM interactions to manipulate the web page dynamically.
 
-## Setup Instructions
-1. Clone or download the project files.
-2. Open `index.html` in a web browser to view the project.
-3. Optionally, modify `style.css` to change the appearance of the web page.
-4. Edit `script.js` to add or modify JavaScript functionality.
-
-## Contributing
-Feel free to contribute to this project by submitting issues or pull requests. Your feedback and suggestions are welcome!
